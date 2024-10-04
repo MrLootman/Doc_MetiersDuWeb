@@ -20,14 +20,14 @@ PARTIE 2 : ENVIRONNEMENT DE TRAVAIL
 A ) Son objectif 
 
 - Concevoir un produit,
-- le faire évoluer 
-- et puiser dans l’expertise précieuse des professionnels qui l’entourent
+- Le faire évoluer 
+- Et puiser dans l’expertise précieuse des professionnels qui l’entourent
 
 On peut ainsi résumer les différentes parties prenantes des équipes produit, et donc l'éco-système autour de lui comme ceci :
 
-Le pôle Business : qui gère la viabilité du produit
-Le pôle Technologie : qui s'occupe de la faisabilité du produit
-Le pôle UX design : qui travaille sur la désirabilité du produit
+- Le pôle Business : qui gère la viabilité du produit
+- Le pôle Technologie : qui s'occupe de la faisabilité du produit
+- Le pôle UX design : qui travaille sur la désirabilité du produit
 
 Ces 3 piliers sont essentiels à la réussite des produits. Les projets ne tiennent pas debout lorsque l’un de ces éléments est défaillant. Le product manager, lui, est au centre de ces trois problématiques. Une place parfois compliquée à tenir, tant les trois éléments cités ci-dessus peuvent souhaiter aller dans des sens opposés.
 
@@ -37,12 +37,12 @@ Le produit est un intermédiaire qui doit refléter un service. Un service est i
 
 B ) Les 6 rôles du product manager 
 
-- récolter l’information,
-- analyser,
-- arbitrer,
-- organiser,
-- mettre en production
-- et faire évoluer le produit
+- Récolter l’information,
+- Analyser,
+- Arbitrer,
+- Organiser,
+- Mettre en production
+- Et faire évoluer le produit
 
 ( Source : BDM )
 
