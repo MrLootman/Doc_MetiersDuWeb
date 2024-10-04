@@ -6,9 +6,9 @@ S'il fallait le définir à un enfant de 5 ans :
 
 La gestion de produit, c'est comme être un chef. Vous devez trouver la recette d'un plat délicieux et vous assurer que tous les ingrédients sont au bon endroit. Vous devez également gérer la cuisine et vous assurer qu'elle fonctionne bien et que le plat a le goût qu'il faut.
 
-( Source : blog de Roger Swannell product manager anglais qui se définit comme " minimaliste " et qui a choisie de collaborer avec des associations caritatives anglaises exclusivement afin de faciliter leur impact social. Il a notamment travaillé le british heart institut ou l action sport alliance visant à aider les jeunes à sortir de l exclusion via le sport )
+( Source : blog de Roger Swannell product manager anglais qui se définit comme " minimaliste " et qui a choisit de collaborer avec des associations caritatives anglaises exclusivement afin de faciliter leur impact social. Il a notamment travaillé avec le British Heart Institute ou l'Action Sport Alliance visant à aider les jeunes à sortir de l'exclusion via le sport )
 
-Une autre définition simplifiée : Chef de produit digital ( source CIDJ Info Jeunesse ) 
+Une autre définition simplifiée : Chef de produit digital ( source CIDJ.com Info-Jeunesse ) 
 
 
 
@@ -18,9 +18,9 @@ A ) Son objectif :
 
 - Concevoir un produit,
 - le faire évoluer 
-- et puiser dans l’expertise précieuse des professionnels qui l’entourent.
+- et puiser dans l’expertise précieuse des professionnels qui l’entourent
 
-On peut ainsi résumer les différentes parties prenantes des équipes produit, et donc l'éco système autour de lui comme ceci :
+On peut ainsi résumer les différentes parties prenantes des équipes produit, et donc l'éco-système autour de lui comme ceci :
 
 Le pôle Business : qui gère la viabilité du produit
 Le pôle Technologie : qui s'occupe de la faisabilité du produit
