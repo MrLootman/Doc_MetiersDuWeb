@@ -2,6 +2,7 @@
 
 PARTIE 1 : DEFINITION
 
+
 S'il fallait le définir à un enfant de 5 ans :
 
 La gestion de produit, c'est comme être un chef. Vous devez trouver la recette d'un plat délicieux et vous assurer que tous les ingrédients sont au bon endroit. Vous devez également gérer la cuisine et vous assurer qu'elle fonctionne bien et que le plat a le goût qu'il faut.
@@ -12,9 +13,11 @@ Une autre définition simplifiée : Chef de produit digital ( source CIDJ.com In
 
 
 
+
 PARTIE 2 : ENVIRONNEMENT DE TRAVAIL 
 
-A ) Son objectif :
+
+A ) Son objectif 
 
 - Concevoir un produit,
 - le faire évoluer 
@@ -32,7 +35,7 @@ PAUSE ! Définition: C’est quoi, un produit ?
 
 Le produit est un intermédiaire qui doit refléter un service. Un service est incarné par différents produits qui permettent de créer des expériences. Exemple : Appliqué au numérique, Claire Dufetrelle prend l’exemple de Spotify : “c’est un service de streaming musical : ce sont des expériences (découverte, suggestions, communauté…) mais aussi des produits : un site web, un logiciel desktop, des applications mobiles et même des produits événementiels”.
 
-B ) Les 6 rôles du product manager :
+B ) Les 6 rôles du product manager 
 
 - récolter l’information,
 - analyser,
@@ -45,27 +48,27 @@ B ) Les 6 rôles du product manager :
 
 
 
-C ) PROFIL TYPE POUR S'EPANOUIR DANS CETTE PROFESSION
+
+PARTIE 3 : PROFIL TYPE POUR S'EPANOUIR DANS CETTE PROFESSION 
 
 
-Compétences techniques polyvalentes :
+A ) Compétences techniques polyvalentes 
 
-Développement, 
-UX design, 
-Marketing 
-et Commercial
+- Développement 
+- UX design
+- Marketing 
+- et Commercial
 
-Soft skills :
+B ) - Soft skills 
 
-Avoir un bon esprit de synthèse. 
-Etre rigoureux(se) et ouvert(e) d’esprit
-Se former régulièrement pour intégrer les meilleures méthodes de conception.
+- Avoir un bon esprit de synthèse
+- Etre rigoureux(se) et ouvert(e) d’esprit
+- Se former régulièrement pour intégrer les meilleures méthodes de conception.
 
-Centres d'intérêts : 
+C ) Centres d'intérêts 
 
-Conseiller, 
-Aider les autres
-Diriger, décider
-Travailler avec les nouvelles technologies
+- Conseiller, aider les autres
+- Diriger, décider
+- Travailler avec les nouvelles technologies
 
 ( Source: CIDJ.com Info Jeunesse ) 
