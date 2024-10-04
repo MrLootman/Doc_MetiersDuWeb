@@ -59,7 +59,7 @@ A ) Compétences techniques polyvalentes
 - Marketing 
 - et Commercial
 
-B ) - Soft skills 
+B ) Soft skills 
 
 - Avoir un bon esprit de synthèse
 - Etre rigoureux(se) et ouvert(e) d’esprit
